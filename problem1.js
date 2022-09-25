@@ -12,5 +12,6 @@ for (number of oddArray) {
 }
 console.log(evenArray);
 
+//using map
 const evenArrayByMap = oddArray.map(num => num + 1);
 console.log(evenArrayByMap);
